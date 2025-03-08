@@ -62,11 +62,12 @@ This will generate a stitched panorama as `stitched_output.jpg`.
 
 ## Example Output
 ### Input Images
-*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q11.jpg)*
-*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q22.jpg)*
+![Input Image 1](https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q11.jpg)
+![Input Image 2](https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q22.jpg)
 
 ### Stitched Panorama
-*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/panorama.jpg)*
+![Output Panorama](https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/panorama.jpg)
+
 
 ## Troubleshooting
 - **Not enough feature matches?** Try increasing the feature detection threshold.
