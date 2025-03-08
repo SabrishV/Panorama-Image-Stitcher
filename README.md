@@ -62,11 +62,11 @@ This will generate a stitched panorama as `stitched_output.jpg`.
 
 ## Example Output
 ### Input Images
-*https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q11.jpg*
-*https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q22.jpg*
+*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q11.jpg)*
+*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/q22.jpg)*
 
 ### Stitched Panorama
-*https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/panorama.jpg*
+*(https://github.com/SabrishV/Panorama-Image-Stitcher/blob/main/panorama.jpg)*
 
 ## Troubleshooting
 - **Not enough feature matches?** Try increasing the feature detection threshold.
@@ -84,7 +84,3 @@ This will generate a stitched panorama as `stitched_output.jpg`.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Enjoy stitching your images into beautiful panoramas! 🚀
-
