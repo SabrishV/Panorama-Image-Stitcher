@@ -39,7 +39,7 @@ A Python-based project for stitching multiple images together to create seamless
    ```
 3. Install required dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install opencv-python numpy
    ```
 
 ## Usage
